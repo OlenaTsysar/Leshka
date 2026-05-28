@@ -1,0 +1,33 @@
+*{
+    margin: 0 0 0 0;
+}
+body{
+    font-size: 50px;
+    font-weight: 50px;
+}
+.nav{
+    background-color: cadetblue;
+    width: 20vw;
+    height: 100vh;
+}
+.first{
+  display:flex;
+}
+.second{
+  flex-direction: column;
+}
+.header{
+    background-color: rgb(14, 196, 44);
+    width: 80vw;
+    height: 20vh;
+}
+.article{
+    background-color: rgb(226, 247, 230);
+    width: 80vw;
+    height: 60vh;
+}
+.footer{
+    background-color: rgb(14, 196, 44);
+    width: 80vw;
+    height: 20vh;
+}

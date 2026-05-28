@@ -1,0 +1,36 @@
+*{
+    margin: 0 0 0 0;
+}
+body{
+    font-size: 50px;
+    font-weight: 200px;
+
+}
+.header{
+    background-color: chartreuse;
+    width: 100vw;
+    height: 20vh;
+}
+.footer{
+    background-color: chartreuse;
+    width: 100vw;
+    height: 20vh;
+}
+.first{
+    display:flex;
+}
+.nav{
+    background-color: aqua;
+    height: 60vh;
+    width: 20vw;
+}
+.article{
+    background-color: rgb(142, 184, 184);
+    height: 60vh;
+    width: 60vw;
+}
+.aside{
+    background-color: rgb(15, 22, 22);
+    height: 60vh;
+    width: 20vw;
+}

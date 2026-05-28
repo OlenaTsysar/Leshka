@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+.nav{
+    background-color: aquamarine;
+    width: 20vw;
+    height: 100dvh;
+}
+.first{
+    display: flex;
+}
+.third{
+    display: flex;
+}
+.header{
+    background-color: chartreuse;
+    width: 80vw;
+    height: 20vh;
+}
+.footer{
+    background-color: chartreuse;
+    width: 80vw;
+    height: 20vh;
+}
+.article{
+    background-color: beige;
+    width: 60vw;
+    height: 60vh;
+}
+.aside{}
